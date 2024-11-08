@@ -1,0 +1,6 @@
+dependencies {
+    implementation 'com.google.firebase:firebase-auth:21.0.1'
+    implementation 'com.google.firebase:firebase-database:20.0.2'
+    implementation 'org.tensorflow:tensorflow-lite:2.5.0'
+    // Add other dependencies as needed
+}
